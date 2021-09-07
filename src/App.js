@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
-import Header from './components/Header'
-import Tasks from './components/Tasks'
-import AddTask from './components/AddTask'
+import Header from './components/Header.jsx'
+import Tasks from './components/Tasks.jsx'
+import AddTask from './components/AddTask.jsx'
 import Footer from './components/Footer.jsx'
 import About from './components/About.jsx'
 
